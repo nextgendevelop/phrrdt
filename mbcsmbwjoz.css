@@ -825,3 +825,7 @@
   background-repeat: no-repeat; 
   margin-right: 6px; 
 } 
+body {
+  background-image: url("bkgd.png");
+  background-reapeat: repeat;
+}
