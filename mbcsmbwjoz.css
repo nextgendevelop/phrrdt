@@ -1,12 +1,14 @@
 /* Created with Easy CSS Menu */
 #contct_pg{
-    psotion: static;
-    height: 40px;
-    width: 100%;
-    margin-top: 1em;
-    maring-left: 1em;
-    margin-right: 1em;
-    background-color: white;
+	position: static;
+	border: 3px solid black;
+	box-shadow: 5px 10px;
+	height: 400px;
+	width: 80%;
+	margin-top: 1em;
+	margin-left: 5em;
+	margin-right: 1em;
+	background-color: white;
 }
 #myBtn {
     display: none; /* Hidden by default */
