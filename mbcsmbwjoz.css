@@ -1,5 +1,10 @@
 /* Created with Easy CSS Menu */
 
+#title_line {
+  height: 40px;
+  width: 100%;
+  background-color: white;
+}
 #mbwjozebul_wrapper {
   padding: 0;
   border-style: solid;
