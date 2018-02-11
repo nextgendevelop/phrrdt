@@ -1,5 +1,13 @@
 /* Created with Easy CSS Menu */
-
+#contct_pg{
+    psotion: static;
+    height: 40px;
+    width: 100%;
+    margin-top: 1em;
+    maring-left: 1em;
+    margin-right: 1em;
+    background-color: white;
+}
 #myBtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
